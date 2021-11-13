@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "160794376655",
+    "firebase_url": "https://supply-trucks-242ff-default-rtdb.firebaseio.com",
+    "project_id": "supply-trucks-242ff",
+    "storage_bucket": "supply-trucks-242ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160794376655:android:761322780dc90e30f73aba",
+        "android_client_info": {
+          "package_name": "com.marcomlink.supplytrucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160794376655-8cmp7ojuv2s1lnictaah14ak1op6p0tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz8y5PvYUujiEfGPL_g_9qarrS5DOe1zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160794376655-8cmp7ojuv2s1lnictaah14ak1op6p0tf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "160794376655-ied7ifofe234vi8dnnh6mn8i8uohtclj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marcomlink.supplytrucks"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160794376655:android:14175d774b6af83ef73aba",
+        "android_client_info": {
+          "package_name": "com.marcomlink.supplytrucksdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160794376655-8cmp7ojuv2s1lnictaah14ak1op6p0tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz8y5PvYUujiEfGPL_g_9qarrS5DOe1zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160794376655-8cmp7ojuv2s1lnictaah14ak1op6p0tf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "160794376655-ied7ifofe234vi8dnnh6mn8i8uohtclj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marcomlink.supplytrucks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
